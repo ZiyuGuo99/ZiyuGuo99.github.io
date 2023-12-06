@@ -104,7 +104,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2303.16894">ViewRefer: Grasp the Multi-view Knowledge for
 3D Visual Grounding with GPT and Prototype Guidance</a></div>
-    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Yiwen Tang*, Renrui Zhang*, Dong Wang#, Zhigang Wang, Bin Zhao#, Xuelong Li.</div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Yiwen Tang*, Renrui Zhang*, Dong Wang#, Zhigang Wang.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2303.16894" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
