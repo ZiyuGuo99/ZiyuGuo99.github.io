@@ -23,7 +23,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sam2point.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Technical Report</abbr>
+    <abbr class="badge">arXiv24</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -54,7 +54,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a></div>
     <div class="author"><b class="publication-authors">Ziyu Guo</b>, Renrui Zhang#, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li#, Hongsheng Li, Pheng-Ann Heng.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">Under Review</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -72,13 +72,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/persam.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR2024</abbr>
+    <abbr class="badge">ICLR24</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">Personalize Segment Anything Model with One Shot</a></div>
     <div class="author">Renrui Zhang, Zhengkai Jiang*, <b class="publication-authors">Ziyu Guo*</b>, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICLR 2024</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2305.03048.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ZrrSkywalker/Personalize-SAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
