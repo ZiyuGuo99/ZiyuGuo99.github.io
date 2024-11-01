@@ -27,7 +27,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2408.16768">Sam2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2408.16768">SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners</a></div>
     <div class="author"><b class="publication-authors">Ziyu Guo</b>, Renrui Zhang, Xiangyang Zhu, Chengzhuo Tong, Peng Gao, Chunyuan Li, Pheng-Ann Heng.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">Technical Report</i></strong>
     <div class="links">
