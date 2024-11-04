@@ -33,8 +33,8 @@ linkedin: https://www.linkedin.com/in/ziyu-guo-702a3a2aa/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/gzy.jpg
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/cat0.png
-favicon_dark: ./assets/img/cat0-dark.png
+favicon: ./assets/img/me.png
+favicon_dark: ./assets/img/me.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
