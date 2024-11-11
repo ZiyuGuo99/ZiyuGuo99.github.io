@@ -47,6 +47,31 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mmsearch.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines</a></div>
+    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2023</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2409.12959" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/CaraJ7/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mmsearch.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/CaraJ/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv23</abbr>
   </div>
@@ -90,7 +115,29 @@
 <br>
 <br>
     
-    
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/viewrefer.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance</a></div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Yiwen Tang*, Renrui Zhang*, Dong Wang, Zhigang Wang, Bin Zhao.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2023</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2303.16894.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Ivan-Tang-3D/ViewRefer3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
 
 
 <li>
