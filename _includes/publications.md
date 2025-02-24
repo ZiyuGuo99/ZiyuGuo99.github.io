@@ -22,6 +22,29 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cot.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a></div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Chengzhuo Tong*, Zhizheng Zhao*, Peng Gao, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2025</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2501.13926" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZiyuGuo99/Image-Generation-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sam2point.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv24</abbr>
   </div>
