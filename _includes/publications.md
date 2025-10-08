@@ -94,7 +94,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2503.10627">SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems</a></div>
-    <div class="author"><b>Ziyu Guo</b>, Renrui Zhang, Hao Chen, Jialin Gao, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng.</div>
+    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Hao Chen*, Jialin Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ACL 2025</i></strong>
     <div class="links">
       <a href="https://sciverse-cuhk.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
@@ -149,6 +149,30 @@
   </div>
 </div>
 
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mme-cot.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2502.09621">MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</a></div>
+    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">Technical Report</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2502.09621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/CaraJ7/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mmecot.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/CaraJ/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
+    </div>
+  </div>
+</div>
 
 <br>
 <br>
