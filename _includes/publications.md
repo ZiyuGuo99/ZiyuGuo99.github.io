@@ -45,7 +45,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/t2i-r1.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS25</abbr>
   </div>
 
@@ -54,6 +54,7 @@
     <div class="author">Dongzhi Jiang*, <b>Ziyu Guo*</b>, Renrui Zhang*, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng, Hongsheng Li.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
     <div class="links">
+      <a href="https://arxiv.org/pdf/2505.17017" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/CaraJ7/T2I-R1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
@@ -66,7 +67,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/delving.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS25</abbr>
   </div>
 
@@ -87,7 +88,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/sciverse.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACL25</abbr>
   </div>
 
@@ -109,7 +110,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/stylemotif.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV25</abbr>
   </div>
 
