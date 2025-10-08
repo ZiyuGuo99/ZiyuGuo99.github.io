@@ -29,7 +29,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a></div>
     <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Chengzhuo Tong*, Zhizheng Zhao*, Peng Gao, Hongsheng Li, Pheng-Ann Heng#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2025</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">Under Review</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2501.13926" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ZiyuGuo99/Image-Generation-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -40,6 +40,92 @@
 
 <br>
 <br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2505.00703">T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT</a></div>
+    <div class="author">Dongzhi Jiang*, <b>Ziyu Guo*</b>, Renrui Zhang*, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
+    <div class="links">
+      <a href="https://github.com/CaraJ7/T2I-R1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2505.17017">Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO</a></div>
+    <div class="author">Chengzhuo Tong*, <b>Ziyu Guo*</b>, Renrui Zhang*, Wenyu Shan*, Xinyu Wei, Zhenghao Xing, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2505.17017" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACL25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2503.10627">SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems</a></div>
+    <div class="author"><b>Ziyu Guo</b>, Renrui Zhang, Hao Chen, Jialin Gao, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ACL 2025</i></strong>
+    <div class="links">
+      <a href="https://sciverse-cuhk.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/ZiyuG/SciVerse" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tbd.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2503.21775">StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion</a></div>
+    <div class="author"><b>Ziyu Guo</b>, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2025</i></strong>
+    <div class="links">
+      <a href="https://stylemotif.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
 
 <li>
 <div class="pub-row">
