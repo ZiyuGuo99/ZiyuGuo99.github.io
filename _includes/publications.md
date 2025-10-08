@@ -28,7 +28,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a></div>
-    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Chengzhuo Tong*, Zhizheng Zhao*, Peng Gao, Hongsheng Li, Pheng-Ann Heng#.</div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Chengzhuo Tong*, Zhizheng Zhao*, Peng Gao, Hongsheng Li#, Pheng-Ann Heng#.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">Under Review</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2501.13926" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -51,7 +51,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2505.00703">T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT</a></div>
-    <div class="author">Dongzhi Jiang*, <b>Ziyu Guo*</b>, Renrui Zhang*, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng, Hongsheng Li.</div>
+    <div class="author">Dongzhi Jiang*, <b>Ziyu Guo*</b>, Renrui Zhang*, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng#, Hongsheng Li#.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.17017" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -73,7 +73,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2505.17017">Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO</a></div>
-    <div class="author">Chengzhuo Tong*, <b>Ziyu Guo*</b>, Renrui Zhang*, Wenyu Shan*, Xinyu Wei, Zhenghao Xing, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="author">Chengzhuo Tong*, <b>Ziyu Guo*</b>, Renrui Zhang*, Wenyu Shan*, Xinyu Wei, Zhenghao Xing, Hongsheng Li#, Pheng-Ann Heng#.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.17017" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -94,7 +94,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2503.10627">SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems</a></div>
-    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Hao Chen*, Jialin Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng.</div>
+    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Hao Chen*, Jialin Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng#.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ACL 2025</i></strong>
     <div class="links">
       <a href="https://sciverse-cuhk.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
@@ -116,7 +116,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2503.21775">StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion</a></div>
-    <div class="author"><b>Ziyu Guo</b>, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia.</div>
+    <div class="author"><b>Ziyu Guo</b>, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia#.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2025</i></strong>
     <div class="links">
       <a href="https://stylemotif.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
@@ -158,13 +158,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/mme-cot.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv25</abbr>
+    <abbr class="badge">ICML25</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2502.09621">MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</a></div>
-    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">Technical Report</i></strong>
+    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICML 2025</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2502.09621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/CaraJ7/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -182,13 +182,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv24</abbr>
+    <abbr class="badge">ICLR25</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines</a></div>
     <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2024</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICLR 2025</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2409.12959" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/CaraJ7/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
