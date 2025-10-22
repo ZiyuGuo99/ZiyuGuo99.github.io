@@ -331,9 +331,6 @@
 </div>
 </div>
 
-<br>
-<br>
-
 <div class="pub-section">3D &amp; Multi-modality Learning</div>
 <!-- <ol class="bibliography"> -->
 <li>
