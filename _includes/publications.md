@@ -127,7 +127,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2407.08739">MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine</a></div>
-    <div class="author">Renrui Zhang, Xinyu Wei, Dongzhi Jiang, <b>Ziyu Guo/b>, Shicheng Li, Yichi Zhang, Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang, Peng Gao, Chunyuan Li, Hongsheng Li#.</div>
+    <div class="author">Renrui Zhang, Xinyu Wei, Dongzhi Jiang, <b>Ziyu Guo</b>, Shicheng Li, Yichi Zhang, Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang, Peng Gao, Chunyuan Li, Hongsheng Li#.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ICLR 2025</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2407.08739" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
