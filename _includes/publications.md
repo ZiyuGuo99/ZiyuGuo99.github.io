@@ -28,7 +28,7 @@
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
 <div class="pub-section">CoT Reasoning for Visual Generation</div>
-<!-- <ol class="bibliography"> -->
+<ol class="bibliography">
 <li>
 <div class="pub-row">
 
