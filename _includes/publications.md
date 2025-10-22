@@ -17,7 +17,9 @@
 <ol class="bibliography">
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
-
+<div class="pub-section">🧠 Multi-modal Reasoning &amp; CoT</div>
+  <ol class="bibliography">
+    
 <li>
 <div class="pub-row">
 
