@@ -27,7 +27,7 @@
 
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
-<div class="pub-section">🧠 Multi-modal Reasoning &amp; CoT</div>
+<div class="pub-section">Multi-modal Reasoning &amp; o1/R1-like Chain-of-Thought (CoT) Reasoning</div>
 <ol class="bibliography">
     
 <li>
@@ -165,7 +165,7 @@
 </div>
 </div>
 
-<div class="pub-section">🧩 3D Vision &amp; Representation Learning</div>
+<div class="pub-section">3D Vision &amp; Representation Learning</div>
 
 <ol class="bibliography">
 <li>
