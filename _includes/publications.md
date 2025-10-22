@@ -29,7 +29,6 @@
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
 <div class="pub-section">CoT Reasoning for Visual Generation</div>
 <ol class="bibliography">
-    
 <li>
 <div class="pub-row">
 
@@ -92,12 +91,10 @@
     </div>
   </div>
 </div>
-
 </div>
+
 <div class="pub-section">CoT Reasoning for Visual Understanding</div>
 <ol class="bibliography">
-
-
 <li>
 <div class="pub-row">
 
@@ -213,7 +210,6 @@
 </div>
 
 <div class="pub-section">3D Large Language Models</div>
-
 <ol class="bibliography">
 <li>
 <div class="pub-row">
@@ -260,7 +256,6 @@
 
 <div class="pub-section">3D &amp; Multi-modality Learning</div>
 <ol class="bibliography">
-  
 <li>
 <div class="pub-row">
 
