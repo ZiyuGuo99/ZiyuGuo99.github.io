@@ -27,7 +27,7 @@
 
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
-<div class="pub-section">o1/R1-like Multi-modal Chain-of-Thought (CoT) Reasoning</div>
+<div class="pub-section">CoT Reasoning for Visual Generation</div>
 <ol class="bibliography">
     
 <li>
@@ -93,8 +93,10 @@
   </div>
 </div>
 
-<br>
-<br>
+</div>
+<div class="pub-section">CoT Reasoning for Visual Understanding</div>
+<ol class="bibliography">
+
 
 <li>
 <div class="pub-row">
@@ -114,6 +116,51 @@
     </div>
   </div>
 </div>
+
+
+<br>
+<br>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sciverse.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2407.08739">MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine</a></div>
+    <div class="author">Renrui Zhang, Xinyu Wei, Dongzhi Jiang, <b>Ziyu Guo/b>, Shicheng Li, Yichi Zhang, Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang, Peng Gao, Chunyuan Li, Hongsheng Li#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICLR 2025</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2407.08739" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZrrSkywalker/MAVIS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sciverse.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2403.14624">MathVerse: Does your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?</a></div>
+    <div class="author">Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, <b>Ziyu Guo</b>, Pengshuo Qiu, Aojun Zhou, Pan Lu, Kai-Wei Chang, Yu Qiao, Peng Gao, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ECCV 2024</i></strong>
+    <div class="links">
+      <a href="https://mathverse-cuhk.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/AI4Math/MathVerse" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
+    </div>
+  </div>
+</div>
+
 
 <br>
 <br>
@@ -165,7 +212,7 @@
 </div>
 </div>
 
-<div class="pub-section">3D Vision &amp; Representation Learning</div>
+<div class="pub-section">3D Large Language Models</div>
 
 <ol class="bibliography">
 <li>
@@ -190,6 +237,29 @@
 
 <br>
 <br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2502.09620">Exploring the Potential of Encoder-free Architectures in 3D LMMs</a></div>
+    <div class="author">Yiwen Tang*, <b class="publication-authors">Ziyu Guo*</b>, Zhuhao Wang*, Renrui Zhang, Qizhi Chen, Junli Liu, Delin Qu, Zhigang Wang, Dong Wang, Xuelong Li, Bin Zhao.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">Under Review</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2502.09620" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="pub-section">3D &amp; Multi-modality Learning</div>
+<ol class="bibliography">
   
 <li>
 <div class="pub-row">
