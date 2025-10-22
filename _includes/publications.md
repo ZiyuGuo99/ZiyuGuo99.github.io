@@ -163,7 +163,6 @@
     </div>
   </div>
 </div>
-</ol>
 </div>
 
 <div class="pub-section">🧩 3D Vision &amp; Representation Learning</div>
