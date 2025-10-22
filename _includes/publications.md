@@ -28,7 +28,7 @@
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
 <div class="pub-section">CoT Reasoning for Visual Generation</div>
-<ol class="bibliography">
+<!-- <ol class="bibliography"> -->
 <li>
 <div class="pub-row">
 
@@ -94,7 +94,7 @@
 </div>
 
 <div class="pub-section">CoT Reasoning for Visual Understanding</div>
-<ol class="bibliography">
+<!-- <ol class="bibliography"> -->
 <li>
 <div class="pub-row">
 
@@ -118,6 +118,7 @@
 <br>
 <br>
 
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -140,6 +141,7 @@
 <br>
 <br>
 
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -210,7 +212,7 @@
 </div>
 
 <div class="pub-section">3D Large Language Models</div>
-<ol class="bibliography">
+<!-- <ol class="bibliography"> -->
 <li>
 <div class="pub-row">
 
@@ -239,7 +241,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv23</abbr>
+    <abbr class="badge">arXiv25</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -255,7 +257,7 @@
 </div>
 
 <div class="pub-section">3D &amp; Multi-modality Learning</div>
-<ol class="bibliography">
+<!-- <ol class="bibliography"> -->
 <li>
 <div class="pub-row">
 
