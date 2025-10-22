@@ -118,6 +118,32 @@
 <br>
 <br>
 
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mme-cot.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2502.09621">MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</a></div>
+    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICML 2025</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2502.09621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/CaraJ7/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mmecot.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/CaraJ/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
 <li>
 <div class="pub-row">
 
@@ -169,30 +195,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mme-cot.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICML25</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2502.09621">MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</a></div>
-    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">ICML 2025</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2502.09621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/CaraJ7/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://mmecot.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
-      <a href="https://huggingface.co/datasets/CaraJ/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
-    </div>
-  </div>
-</div>
-
-<br>
-<br>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR25</abbr>
   </div>
@@ -211,7 +213,7 @@
 </div>
 </div>
 
-<div class="pub-section">3D Large Language Models</div>
+<div class="pub-section">3D Large Models</div>
 <!-- <ol class="bibliography"> -->
 <li>
 <div class="pub-row">
@@ -256,29 +258,9 @@
 </div>
 </div>
 
-<div class="pub-section">3D &amp; Multi-modality Learning</div>
-<!-- <ol class="bibliography"> -->
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/stylemotif.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICCV25</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2503.21775">StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion</a></div>
-    <div class="author"><b>Ziyu Guo</b>, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2025</i></strong>
-    <div class="links">
-      <a href="https://stylemotif.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
-    </div>
-  </div>
-</div>
 
 <br>
 <br>
-
 
 <li>
 <div class="pub-row">
@@ -304,6 +286,80 @@
 
 <br>
 <br>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pointclip.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR22</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf">PointCLIP: Point Cloud Understanding by CLIP</a></div>
+    <div class="author">Renrui Zhang*, <b class="publication-authors">Ziyu Guo*</b>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">CVPR 2022</i></strong>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZrrSkywalker/PointCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pointm2ae.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS22</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2205.14401.pdf">Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training</a></div>
+    <div class="author">Renrui Zhang, <b class="publication-authors">Ziyu Guo</b>, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li, Peng Gao#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2022</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2205.14401.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZrrSkywalker/Point-M2AE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+
+<div class="pub-section">3D &amp; Multi-modality Learning</div>
+<!-- <ol class="bibliography"> -->
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/stylemotif.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2503.21775">StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion</a></div>
+    <div class="author"><b>Ziyu Guo</b>, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2025</i></strong>
+    <div class="links">
+      <a href="https://stylemotif.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+
 
 
 <li>
@@ -395,55 +451,6 @@ Point Cloud Pre-training</a></div>
     <div class="periodical"><strong><i style="color:#7b5aa6">IJCAI 2023 Oral</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2302.14007" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-
-
-<br>
-<br>
-
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pointclip.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR22</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf">PointCLIP: Point Cloud Understanding by CLIP</a></div>
-    <div class="author">Renrui Zhang*, <b class="publication-authors">Ziyu Guo*</b>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">CVPR 2022</i></strong>
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ZrrSkywalker/PointCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-
-
-<br>
-<br>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pointm2ae.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NeurIPS22</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2205.14401.pdf">Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training</a></div>
-    <div class="author">Renrui Zhang, <b class="publication-authors">Ziyu Guo</b>, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li, Peng Gao#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2022</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2205.14401.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ZrrSkywalker/Point-M2AE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
