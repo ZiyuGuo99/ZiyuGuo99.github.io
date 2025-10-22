@@ -122,7 +122,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sciverse.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/mavis.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR25</abbr>
   </div>
 
@@ -145,7 +145,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sciverse.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/mathverse.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV24</abbr>
   </div>
 
@@ -240,7 +240,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/enel.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv25</abbr>
   </div>
 
