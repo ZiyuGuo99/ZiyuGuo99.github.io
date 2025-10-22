@@ -24,12 +24,11 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
 
 <div class="publications">
-<ol class="bibliography">
+
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
 <div class="pub-section">🧠 Multi-modal Reasoning &amp; CoT</div>
-
-  <ol class="bibliography">
+<ol class="bibliography">
     
 <li>
 <div class="pub-row">
@@ -164,7 +163,7 @@
     </div>
   </div>
 </div>
-
+</ol>
 
 <div class="pub-section">🧩 3D Vision &amp; Representation Learning</div>
 
