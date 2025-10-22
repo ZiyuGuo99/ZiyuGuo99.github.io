@@ -10,11 +10,10 @@
       color: purple;
     }
     .pub-section {
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 700;
       color: #4a148c;           
       background: linear-gradient(90deg, #e8def8 0%, #ffffff 80%);
-      border-left: 6px solid #7b5aa6;
       padding: 6px 12px;
       margin: 30px 0 10px 0;
       border-radius: 6px;
@@ -120,6 +119,79 @@
 <br>
 <br>
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mme-cot.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2502.09621">MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</a></div>
+    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICML 2025</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2502.09621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/CaraJ7/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mmecot.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/CaraJ/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines</a></div>
+    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li#.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICLR 2025</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2409.12959" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/CaraJ7/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mmsearch.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
+      <a href="https://huggingface.co/datasets/CaraJ/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
+    </div>
+  </div>
+</div>
+</ol>
+
+<div class="pub-section">🧩 3D Vision &amp; Representation Learning</div>
+
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a></div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li#, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">Under Review</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+  
 <li>
 <div class="pub-row">
 
@@ -167,78 +239,6 @@
 <br>
 <br>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mme-cot.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICML25</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2502.09621">MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</a></div>
-    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">ICML 2025</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2502.09621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/CaraJ7/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://mmecot.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
-      <a href="https://huggingface.co/datasets/CaraJ/MME-CoT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
-    </div>
-  </div>
-</div>
-
-<br>
-<br>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR25</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines</a></div>
-    <div class="author">Dongzhi Jiang*, Renrui Zhang*, <b class="publication-authors">Ziyu Guo</b>, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li#.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">ICLR 2025</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2409.12959" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/CaraJ7/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://mmsearch.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Webpage</a>
-      <a href="https://huggingface.co/datasets/CaraJ/MMSearch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
-    </div>
-  </div>
-</div>
-
-
-<br>
-<br>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv23</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a></div>
-    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li#, Hongsheng Li, Pheng-Ann Heng.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">Under Review</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-
-
-<br>
-<br>
-  
 
 <li>
 <div class="pub-row">
