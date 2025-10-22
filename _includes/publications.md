@@ -9,6 +9,17 @@
     .publication-periodical {
       color: purple;
     }
+    .pub-section {
+      font-size: 20px;
+      font-weight: 700;
+      color: #4a148c;           
+      background: linear-gradient(90deg, #e8def8 0%, #ffffff 80%);
+      border-left: 6px solid #7b5aa6;
+      padding: 6px 12px;
+      margin: 30px 0 10px 0;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
   </style>
 </head>
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
@@ -18,6 +29,7 @@
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
 <div class="pub-section">🧠 Multi-modal Reasoning &amp; CoT</div>
+
   <ol class="bibliography">
     
 <li>
