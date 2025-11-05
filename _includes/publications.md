@@ -27,9 +27,32 @@
 
   
 <strong><i style="color:#7b5aa6">* Equal contribution, # Corresponding author</i></strong>
-<div class="pub-section">CoT Reasoning for Visual Generation</div>
+<div class="pub-section">CoT/CoF Reasoning for Visual Generation</div>
 <ol class="bibliography">
 <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/video-cof.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark</a></div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Xinyan Chen*, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">Technical Report</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2510.26802" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZiyuGuo99/MME-CoF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://video-cof.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://huggingface.co/datasets/ZiyuG/MME-CoF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br><li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
