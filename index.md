@@ -10,6 +10,9 @@ I'm now joining [Meta](https://www.meta.com/) as a research intern. I previously
 
 My research interests mainly include <b><i style="color:#7b5aa6">Multi-modal Learning, Large Language/Vision Models, and 3D Vision.</i></b>
 
+✉️ I’ll be on the job market in 2027. Happy to connect about opportunities!
+
+📌 I'm looking for undergraduate and graduate students for academic cooperation. Discussions are welcome!
 
 {% include_relative _includes/publications.md %}
 
