@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
+/* =========================
+   Global
+========================= */
+
 body {
-  background-color: #F5F7FB;  /* 微微偏蓝的白 */
+  background-color: #F2F4FA;  /* 冷白偏蓝 */
   padding: 0px;
   font: 16.0px/1.5 Crimson Pro, serif;
-  color: #424A59;  /* 冷灰 */
+  color: #3F4653;   /* 冷灰文字 */
   font-weight: 400;
   margin: 0;
 }
@@ -19,14 +23,16 @@ a.no-color {
   color: unset !important;
 }
 
-/* -------- 社交图标：科技蓝 -------- */
+/* =========================
+   Social Icons
+========================= */
 
 .social-icons a {
   display: inline-block;
   height: 2.4rem;
   width: 2.4rem;
   background-color: transparent;
-  color: #2962FF !important;   /* 主蓝 */
+  color: #1F3BB3 !important;  /* 深科技蓝 */
   border-radius: 100%;
   text-align: center;
   font-size: 1.15rem;
@@ -36,7 +42,7 @@ a.no-color {
 
 @media (prefers-color-scheme: dark) {
   .social-icons a {
-    color: #8FB0FF !important;  /* 浅蓝 */
+    color: #A7B9FF !important;  /* 暗色模式的浅蓝 */
   }
 }
 
@@ -46,54 +52,14 @@ a.no-color {
 
 .social-icons a:hover {
   background-color: transparent;
-  color: #1634A0 !important;   /* hover 深蓝 */
+  color: #15287A !important;  /* hover 深蓝 */
   transform: scale(1.3);
 }
 
-/*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-      .social-icons a:hover:after {
-        width: 100%;
-        background: #337ab7;
-      }
-     */
 
-@media (prefers-color-scheme: dark) {
-  .social-icons a:last-child {
-    margin-right: 0;
-  }
-
-  .social-icons a:hover {
-    background-color: transparent;
-    color: #E0E7FF !important;
-    transform: scale(1.2);
-  }
-
-  /*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-      
-    .social-icons a:hover:after {
-        width: 100%;
-        background: #a0b0ff;
-      }
-    */
-}
+/* =========================
+   Icon Buttons
+========================= */
 
 .icon-button {
   background-color: white;
@@ -106,9 +72,6 @@ a.no-color {
   margin: 0 5px;
   position: relative;
   text-align: center;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
   user-select: none;
   width: 3.6rem;
 }
@@ -121,9 +84,6 @@ a.no-color {
   margin: 0;
   position: absolute;
   top: 50%;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  -o-transition: all 0.3s;
   transition: all 0.3s;
   width: 0;
 }
@@ -135,16 +95,13 @@ a.no-color {
   margin: -1.8rem;
 }
 
-.twitter span {
-  background-color: #2962FF;
-}
-
+.twitter span,
 .facebook span {
-  background-color: #2962FF;
+  background-color: #1F3BB3;
 }
 
 .linkedin span {
-  background-color: #0077B5;
+  background-color: #0A66C2;
 }
 
 .github span {
@@ -164,20 +121,14 @@ email {
   line-height: 3.6rem;
   position: absolute;
   top: 0;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  -o-transition: all 0.3s;
   transition: all 0.3s;
   width: 3.6rem;
   z-index: 10;
 }
 
-.icon-button .icon-twitter {
-  color: #2962FF;
-}
-
+.icon-button .icon-twitter,
 .icon-button .icon-facebook {
-  color: #2962FF;
+  color: #1F3BB3;
 }
 
 .icon-button .icon-github {
@@ -185,7 +136,7 @@ email {
 }
 
 .icon-button .icon-linkedin {
-  color: #0077B5;
+  color: #0A66C2;
 }
 
 .icon-button:hover .icon-twitter,
@@ -195,12 +146,12 @@ email {
   color: white;
 }
 
-// autocolor {
-//   color: #595959;
-// }
+/* =========================
+   Accent Colors
+========================= */
 
 autocolor {
-  color: #2962FF;   /* 主蓝 */
+  color: #1F3BB3; /* 深科技蓝 */
 }
 
 lightonly {
@@ -221,14 +172,18 @@ papertitle {
   font-size: 100%;
 }
 
+/* =========================
+   Dark Mode
+========================= */
+
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #0B1020;   /* 深海军蓝 */
-    color: #E3E9F8;
+    background-color: #0A0F1F; /* 深海军蓝 */
+    color: #DDE2F5;
   }
 
   autocolor {
-    color: #8FB0FF;
+    color: #A7B9FF;
   }
 
   lightonly {
@@ -240,9 +195,13 @@ papertitle {
   }
 
   papertitle {
-    color: #F0F3FF;
+    color: #DCE4FF;
   }
 }
+
+/* =========================
+   Images
+========================= */
 
 .image {
   border-radius: 0.35em;
@@ -251,26 +210,6 @@ papertitle {
   position: relative;
 }
 
-.image:before {
-  -moz-transition: opacity 0.2s ease-in-out;
-  -webkit-transition: opacity 0.2s ease-in-out;
-  -ms-transition: opacity 0.2s ease-in-out;
-  transition: opacity 0.2s ease-in-out;
-  border-radius: 0.35em;
-  content: '';
-  display: block;
-  height: 100%;
-  left: 0;
-  opacity: 0.5;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-
-// .image.avatar {
-//   border-radius: 0%;
-// }
-
 .image.avatar:before {
   display: none;
 }
@@ -278,34 +217,24 @@ papertitle {
 .image.avatar img {
   border-radius: 20%;
   width: 90%;
-  padding: 50px;
-  border: 2px solid #D2DCF6;   /* 浅蓝边框 */
   padding: 8px;
-  box-shadow: 0 -1px 5px 1px rgba(120, 144, 200, 0.3);
+  border: 2px solid #D8E1FF; /* 浅蓝边框 */
+  box-shadow: 0 -1px 5px 1px rgba(80, 110, 200, 0.35);
 }
 
 .image.logo img {
   border-radius: 0%;
   width: 100%;
-  padding: 50px;
-  // border: 2px solid #ddd;
   opacity: 0.5;
   padding: 10px;
-  box-shadow: 0 0px 0px 0px rgba(200, 200, 200, 0.3);
   margin-left: -8px;
   margin-top: -58px;
   margin-bottom: -10px;
 }
 
-#header .image.avatar {
-  margin: 0 0 em 0;
-  width: 8.00em;
-}
-
-// #header .image.logo {
-//   margin: 0 0 em 0;
-//   width: 8.00em;
-// }
+/* =========================
+   Headings
+========================= */
 
 h3 {
   font-weight: 400;
@@ -319,8 +248,7 @@ h4 {
   margin: 0 0 5px;
 }
 
-h5,
-h6 {
+h5, h6 {
   font-weight: 600;
   color: #374151;
   margin: 0 0 20px;
@@ -340,48 +268,26 @@ h2 {
 }
 
 @media (prefers-color-scheme: dark) {
-
-  h1,
-  h3 {
-    font-weight: 300;
-    color: #E5ECFF;
-    margin: 0 0 20px;
+  h1, h3 {
+    color: #DCE4FF;
   }
-
-  h4 {
-    font-weight: 400;
-    color: #CBD5F5;
-    margin: 0 0 5px;
+  h4, h5, h6 {
+    color: #C3CEFF;
   }
-
-  h5,
-  h6 {
-    color: #CBD5F5;
-  }
-
   h2 {
-    color: #E5ECFF;
-  }
-
-  email {
-    font-size: 14px;
-    color: #CBD5F5;
-    font-family: "Ubuntu Mono";
+    color: #DCE4FF;
   }
 }
 
-p,
-ul,
-ol,
-table,
-pre,
-dl {
+/* =========================
+   All Text Blocks
+========================= */
+
+p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
 
-h1,
-h2,
-h3 {
+h1, h2, h3 {
   line-height: 1.1;
 }
 
@@ -389,33 +295,28 @@ h1 {
   font-size: 28px;
 }
 
-/* 链接：科技蓝 */
+/* =========================
+   Links
+========================= */
 
 a {
-  color: #2962FF;
+  color: #1F3BB3;
   text-decoration: none;
 }
 
 a:hover {
-  color: #1634A0;
+  color: #15287A;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: #8FB0FF;
+    color: #A7B9FF;
   }
 }
 
-a small {
-  font-size: 11px;
-  color: #777;
-  margin-top: -0.3em;
-  display: block;
-}
-
-a:hover small {
-  color: #777;
-}
+/* =========================
+   Layout
+========================= */
 
 .wrapper {
   width: 960px;
@@ -423,24 +324,17 @@ a:hover small {
 }
 
 blockquote {
-  border-left: 2px solid #C3D4FF;
-  margin: 0;
+  border-left: 2px solid #C5CEFF;
   padding: 0 0 0 20px;
   font-style: italic;
-}
-
-code,
-pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #1F2933;
 }
 
 pre {
   max-width: 500px;
   padding: 8px 15px;
-  background: #E8F0FF;
+  background: #E2E7FF;
   border-radius: 5px;
-  border: 1px solid #CBD5F5;
+  border: 1px solid #C5CEFF;
   overflow-x: auto;
 }
 
@@ -449,29 +343,20 @@ table {
   border-collapse: collapse;
 }
 
-th,
-td {
+th, td {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #E5E7EB;
 }
 
-dt {
+th, dt {
   color: #111827;
   font-weight: 500;
 }
 
-th {
-  color: #111827;
-}
-
 @media (prefers-color-scheme: dark) {
-  th {
-    color: #8FB0FF;
-  }
-
-  dt {
-    color: #8FB0FF;
+  th, dt {
+    color: #A7B9FF;
   }
 }
 
@@ -479,11 +364,14 @@ img {
   max-width: 100%;
 }
 
+/* =========================
+   Header Layout
+========================= */
+
 header {
   width: 232px;
   float: left;
   position: fixed;
-  -webkit-font-smoothing: subpixel-antialiased;
   padding-top: 4.0em;
   text-align: center;
 }
@@ -533,7 +421,6 @@ header ul a:active {
 
 strong {
   color: #111827;
-  font-weight: 500;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -542,16 +429,9 @@ strong {
   }
 }
 
-header ul li+li+li {
-  border-right: none;
-  width: 89px;
-}
-
-header ul a strong {
-  font-size: 14px;
-  display: block;
-  color: #111827;
-}
+/* =========================
+   Main Section
+========================= */
 
 section {
   width: 650px;
@@ -571,18 +451,23 @@ hr {
   margin: 0 0 20px;
 }
 
+/* =========================
+   Footer
+========================= */
+
 footer {
   width: 232px;
   float: left;
   position: fixed;
   bottom: 30px;
-  -webkit-font-smoothing: subpixel-antialiased;
   text-align: center;
 }
 
-@media print,
-screen and (max-width: 960px) {
+/* =========================
+   Responsive
+========================= */
 
+@media print, screen and (max-width: 960px) {
   .pub-row {
     display: flex;
     align-items: center;
@@ -593,9 +478,7 @@ screen and (max-width: 960px) {
     margin: 0;
   }
 
-  header,
-  section,
-  footer {
+  header, section, footer {
     float: none;
     position: static;
     width: auto;
@@ -612,10 +495,6 @@ screen and (max-width: 960px) {
     margin: 0 0 20px;
   }
 
-  header a small {
-    display: inline;
-  }
-
   header ul {
     position: absolute;
     right: 50px;
@@ -623,55 +502,12 @@ screen and (max-width: 960px) {
   }
 
   .image.avatar img {
-    border-radius: 20%;
     width: 180px;
     padding: 5px;
   }
-
-  .image.logo img {
-    border-radius: 0%;
-    width: 117px;
-    padding: 3px;
-    margin-top: -20px;
-  }
-
-  #head1o2 {
-    visibility: hidden;
-  }
-
-  #head2o2 {
-    visibility: hidden;
-  }
 }
 
-@media print,
-screen and (max-width: 960px) {
-  body {
-    word-wrap: break-word;
-    padding: 15px;
-  }
-
-  .pub-row {
-    display: flex;
-    align-items: center;
-  }
-
-  header {
-    padding: 0;
-  }
-
-  header ul,
-  header p.view {}
-
-  pre,
-  code {
-    word-wrap: normal;
-  }
-}
-
-@media print,
-screen and (max-width: 480px) {
-
+@media print, screen and (max-width: 480px) {
   .pub-row {
     display: block;
     align-items: center;
@@ -685,31 +521,21 @@ screen and (max-width: 480px) {
     width: 99%;
   }
 
-  header li,
-  header ul li+li+li {
+  header li, header ul li+li+li {
     width: 33%;
   }
 
   .image.avatar img {
-    border-radius: 20%;
     width: 180px;
     padding: 3px;
-  }
-
-  #head1o2 {
-    visibility: hidden;
-  }
-
-  #head2o2 {
-    visibility: hidden;
   }
 }
 
 @media print {
   body {
     padding: 0.4in;
-  font-size: 12pt;
-  color: #444;
+    font-size: 12pt;
+    color: #444;
   }
 }
 
