@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 body {
-  background-color: #fff;
+  background-color: #F5F7FB;  /* 微微偏蓝的白 */
   padding: 0px;
   font: 16.0px/1.5 Crimson Pro, serif;
-  color: #595959;
+  color: #424A59;  /* 冷灰 */
   font-weight: 400;
-  margin: 0
+  margin: 0;
 }
 
 .pub-row {
@@ -19,33 +19,35 @@ a.no-color {
   color: unset !important;
 }
 
+/* -------- 社交图标：科技蓝 -------- */
+
 .social-icons a {
   display: inline-block;
   height: 2.4rem;
   width: 2.4rem;
   background-color: transparent;
-  color: #57068c !important;
+  color: #2962FF !important;   /* 主蓝 */
   border-radius: 100%;
   text-align: center;
   font-size: 1.15rem;
   line-height: 0rem;
-  margin-right: 1rem
+  margin-right: 1rem;
 }
 
 @media (prefers-color-scheme: dark) {
   .social-icons a {
-    color: #b8b8b8 !important;
+    color: #8FB0FF !important;  /* 浅蓝 */
   }
 }
 
 .social-icons a:last-child {
-  margin-right: 0
+  margin-right: 0;
 }
 
 .social-icons a:hover {
   background-color: transparent;
-  color: transparent;
-  transform: scale(1.3)
+  color: #1634A0 !important;   /* hover 深蓝 */
+  transform: scale(1.3);
 }
 
 /*
@@ -66,13 +68,13 @@ a.no-color {
 
 @media (prefers-color-scheme: dark) {
   .social-icons a:last-child {
-    margin-right: 0
+    margin-right: 0;
   }
 
   .social-icons a:hover {
     background-color: transparent;
-    color: black;
-    transform: scale(1.2)
+    color: #E0E7FF !important;
+    transform: scale(1.2);
   }
 
   /*
@@ -108,7 +110,7 @@ a.no-color {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  width: 3.6rem
+  width: 3.6rem;
 }
 
 .icon-button span {
@@ -123,30 +125,30 @@ a.no-color {
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
-  width: 0
+  width: 0;
 }
 
 .icon-button:hover span {
   width: 3.6rem;
   height: 3.6rem;
   border-radius: 3.6rem;
-  margin: -1.8rem
+  margin: -1.8rem;
 }
 
 .twitter span {
-  background-color: #4099ff
+  background-color: #2962FF;
 }
 
 .facebook span {
-  background-color: #4286f4
+  background-color: #2962FF;
 }
 
 .linkedin span {
-  background-color: #0077B5
+  background-color: #0077B5;
 }
 
 .github span {
-  background-color: #000
+  background-color: #000;
 }
 
 email {
@@ -167,15 +169,15 @@ email {
   -o-transition: all 0.3s;
   transition: all 0.3s;
   width: 3.6rem;
-  z-index: 10
+  z-index: 10;
 }
 
 .icon-button .icon-twitter {
-  color: #4099ff
+  color: #2962FF;
 }
 
 .icon-button .icon-facebook {
-  color: #4286f4
+  color: #2962FF;
 }
 
 .icon-button .icon-github {
@@ -183,14 +185,14 @@ email {
 }
 
 .icon-button .icon-linkedin {
-  color: #0077B5
+  color: #0077B5;
 }
 
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-github,
 .icon-button:hover .icon-linkedin {
-  color: white
+  color: white;
 }
 
 // autocolor {
@@ -198,7 +200,7 @@ email {
 // }
 
 autocolor {
-  color: #57068c;
+  color: #2962FF;   /* 主蓝 */
 }
 
 lightonly {
@@ -221,12 +223,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #404040;
-    color: #eee6f3;
+    background-color: #0B1020;   /* 深海军蓝 */
+    color: #E3E9F8;
   }
 
   autocolor {
-    color: #ab82c5;
+    color: #8FB0FF;
   }
 
   lightonly {
@@ -238,11 +240,9 @@ papertitle {
   }
 
   papertitle {
-    color: #eeeff0;
+    color: #F0F3FF;
   }
-
 }
-
 
 .image {
   border-radius: 0.35em;
@@ -271,7 +271,6 @@ papertitle {
 //   border-radius: 0%;
 // }
 
-
 .image.avatar:before {
   display: none;
 }
@@ -280,9 +279,9 @@ papertitle {
   border-radius: 20%;
   width: 90%;
   padding: 50px;
-  border: 2px solid #ddd;
+  border: 2px solid #D2DCF6;   /* 浅蓝边框 */
   padding: 8px;
-  box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+  box-shadow: 0 -1px 5px 1px rgba(120, 144, 200, 0.3);
 }
 
 .image.logo img {
@@ -298,8 +297,6 @@ papertitle {
   margin-bottom: -10px;
 }
 
-
-
 #header .image.avatar {
   margin: 0 0 em 0;
   width: 8.00em;
@@ -312,32 +309,31 @@ papertitle {
 
 h3 {
   font-weight: 400;
-  color: #000;
+  color: #111827;
   margin: 0 0 0px;
 }
 
 h4 {
   font-weight: 400;
-  color: #545353;
+  color: #4B5563;
   margin: 0 0 5px;
 }
-
 
 h5,
 h6 {
   font-weight: 600;
-  color: #404040;
+  color: #374151;
   margin: 0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color: #000000;
+  color: #111827;
   margin: 0 0 8px;
 }
 
 h2 {
-  color: #000000;
+  color: #111827;
   font-weight: 500;
   margin: 2px 0px 15px;
   font-size: 157%;
@@ -348,28 +344,28 @@ h2 {
   h1,
   h3 {
     font-weight: 300;
-    color: #404040;
+    color: #E5ECFF;
     margin: 0 0 20px;
   }
 
   h4 {
     font-weight: 400;
-    color: #d6d6d6;
+    color: #CBD5F5;
     margin: 0 0 5px;
   }
 
   h5,
   h6 {
-    color: #d6d6d6;
+    color: #CBD5F5;
   }
 
   h2 {
-    color: #d6d6d6;
+    color: #E5ECFF;
   }
 
   email {
     font-size: 14px;
-    color: #d6d6d6;
+    color: #CBD5F5;
     font-family: "Ubuntu Mono";
   }
 }
@@ -393,18 +389,20 @@ h1 {
   font-size: 28px;
 }
 
+/* 链接：科技蓝 */
+
 a {
-  color: #702b9d;
+  color: #2962FF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #330662;
+  color: #1634A0;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: #ab82c5;
+    color: #8FB0FF;
   }
 }
 
@@ -425,7 +423,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left: 1px solid #e5e5e5;
+  border-left: 2px solid #C3D4FF;
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
@@ -434,15 +432,15 @@ blockquote {
 code,
 pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #333;
+  color: #1F2933;
 }
 
 pre {
   max-width: 500px;
   padding: 8px 15px;
-  background: #f8f8f8;
+  background: #E8F0FF;
   border-radius: 5px;
-  border: 1px solid #e5e5e5;
+  border: 1px solid #CBD5F5;
   overflow-x: auto;
 }
 
@@ -455,25 +453,25 @@ th,
 td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #E5E7EB;
 }
 
 dt {
-  color: #444;
+  color: #111827;
   font-weight: 500;
 }
 
 th {
-  color: #444;
+  color: #111827;
 }
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: rgb(62, 183, 240);
+    color: #8FB0FF;
   }
 
   dt {
-    color: rgb(62, 183, 240);
+    color: #8FB0FF;
   }
 }
 
@@ -487,25 +485,23 @@ header {
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
   padding-top: 4.0em;
-  text-align: center
+  text-align: center;
 }
-
-
 
 header ul {
   list-style: none;
   height: 40px;
   padding: 0;
-  background: #f4f4f4;
+  background: #E5E7EB;
   border-radius: 5px;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #D1D5DB;
   width: 270px;
 }
 
 header li {
   width: 89px;
   float: left;
-  border-right: 1px solid #e0e0e0;
+  border-right: 1px solid #D1D5DB;
   height: 40px;
 }
 
@@ -520,7 +516,7 @@ header li:last-child a {
 header ul a {
   line-height: 1;
   font-size: 11px;
-  color: #999;
+  color: #6B7280;
   display: block;
   text-align: center;
   padding-top: 6px;
@@ -528,21 +524,21 @@ header ul a {
 }
 
 header ul a:hover {
-  color: #999;
+  color: #111827;
 }
 
 header ul a:active {
-  background-color: #f0f0f0;
+  background-color: #DDE3F5;
 }
 
 strong {
-  color: #222;
+  color: #111827;
   font-weight: 500;
 }
 
 @media (prefers-color-scheme: dark) {
   strong {
-    color: #eeeff0;
+    color: #F3F4FF;
   }
 }
 
@@ -554,7 +550,7 @@ header ul li+li+li {
 header ul a strong {
   font-size: 14px;
   display: block;
-  color: #222;
+  color: #111827;
 }
 
 section {
@@ -570,7 +566,7 @@ small {
 
 hr {
   border: 0;
-  background: #e5e5e5;
+  background: #E5E7EB;
   height: 1px;
   margin: 0 0 20px;
 }
@@ -597,7 +593,6 @@ screen and (max-width: 960px) {
     margin: 0;
   }
 
-
   header,
   section,
   footer {
@@ -611,7 +606,7 @@ screen and (max-width: 960px) {
   }
 
   section {
-    border: 1px solid #e5e5e5;
+    border: 1px solid #E5E7EB;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
@@ -626,7 +621,6 @@ screen and (max-width: 960px) {
     right: 50px;
     top: 52px;
   }
-
 
   .image.avatar img {
     border-radius: 20%;
@@ -648,7 +642,6 @@ screen and (max-width: 960px) {
   #head2o2 {
     visibility: hidden;
   }
-
 }
 
 @media print,
@@ -710,14 +703,13 @@ screen and (max-width: 480px) {
   #head2o2 {
     visibility: hidden;
   }
-
 }
 
 @media print {
   body {
     padding: 0.4in;
-    font-size: 12pt;
-    color: #444;
+  font-size: 12pt;
+  color: #444;
   }
 }
 
