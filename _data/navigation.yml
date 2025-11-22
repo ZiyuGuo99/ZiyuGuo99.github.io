@@ -9,14 +9,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
+
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
   
   # - title: "CV"
   #   url: /files/CV_Shijue Huang.pdf
-
-  # - title: "Educations"
-  #   url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

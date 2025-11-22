@@ -1,6 +1,10 @@
+<div style="margin-top: 1.5em;"></div>
+
 I am a third-year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk) supervised by [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/1.html). Before that, I received my bachelor's degree in Computer Science from [Peking University](https://www.pku.edu.cn/) supervised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
 
 My research interests mainly include **<i>Multi-modal Learning, Large Language/Vision Models, and 3D Vision.</i>**
+
+<div style="margin-top: 1.5em;"></div>
 
 I'm now joining [Meta](https://www.meta.com/) as a research intern. I previously worked as a research intern at [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
