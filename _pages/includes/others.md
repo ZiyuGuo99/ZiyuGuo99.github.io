@@ -1,6 +1,5 @@
 # 📖 Educations
 - *Aug 2023 - Now*, PhD Candidate, Computer Science and Engineering, The Chinese University of Hong Kong.
-- *Sep 2021 - Jul 2023*, Master of Science, Computer Science, Peking University (Incomplete).
 - *Sep 2017 - Jul 2021*, Bachelor of Science, Computer Science and Technology, Peking University.
 
 <!-- # 💻 Internships
