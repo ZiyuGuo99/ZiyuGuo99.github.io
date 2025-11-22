@@ -18,7 +18,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv</span> <a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a>.<br>
+    <span class="preprint-tag">arXiv 2025</span> <a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang*, Chengzhuo Tong*, Zhizheng Zhao*, Peng Gao, Hongsheng Li#, Pheng-Ann Heng#.<br>[<a href="https://arxiv.org/pdf/2501.13926">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Image-Generation-CoT">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-2', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-2" style="display: none;">
@@ -29,7 +29,7 @@
 <div class="paper-box">
   <div class="paper-box-text">
     <span class="conference-tag">NeurIPS 2025</span> <a href="https://arxiv.org/pdf/2505.00703">T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT</a>.<br>
-    Dongzhi Jiang*, <strong>Ziyu Guo</strong>*, Renrui Zhang*, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng#, Hongsheng Li#.<br>[<a href="https://arxiv.org/pdf/2505.17017">PDF</a>] [<a href="https://github.com/CaraJ7/T2I-R1">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-3', this)">Show Figure</button>
+    Dongzhi Jiang*, <strong>Ziyu Guo</strong>*, Renrui Zhang*, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng#, Hongsheng Li#.<br>[<a href="https://arxiv.org/pdf/2505.00703">PDF</a>] [<a href="https://github.com/CaraJ7/T2I-R1">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-3', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-3" style="display: none;">
     <img src="images/papers/t2i-r1.png" alt="T2I-R1">
@@ -90,7 +90,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="conference-tag">ICLR 2025</span> <a href="https://arxiv.org/pdf/2305.03048.pdf">MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines</a>.<br>
+    <span class="conference-tag">ICLR 2025</span> <a href="https://arxiv.org/pdf/2409.12959">MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines</a>.<br>
     Dongzhi Jiang*, Renrui Zhang*, <strong>Ziyu Guo</strong>, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li#.<br>[<a href="https://arxiv.org/pdf/2409.12959">PDF</a>] [<a href="https://github.com/CaraJ7/MMSearch">Code</a>] [<a href="https://mmsearch.github.io/">Webpage</a>] [<a href="https://huggingface.co/datasets/CaraJ/MMSearch">Dataset</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-9', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-9" style="display: none;">
@@ -102,7 +102,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv</span> <a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a>.<br>
+    <span class="preprint-tag">arXiv 2023</span> <a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li#, Hongsheng Li, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/pdf/2309.00615">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-10', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-10" style="display: none;">
@@ -112,8 +112,8 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv</span> <a href="https://arxiv.org/abs/2502.09620">Exploring the Potential of Encoder-free Architectures in 3D LMMs</a>.<br>
-    Yiwen Tang*, <strong>Ziyu Guo</strong>*, Zhuhao Wang*, Renrui Zhang, Qizhi Chen, Junli Liu, Delin Qu, Zhigang Wang, Dong Wang, Xuelong Li, Bin Zhao.<br>[<a href="https://arxiv.org/abs/2502.09620">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-11', this)">Show Figure</button>
+    <span class="preprint-tag">arXiv 2025</span> <a href="https://arxiv.org/abs/2502.09620">Exploring the Potential of Encoder-free Architectures in 3D LMMs</a>.<br>
+    Yiwen Tang*, <strong>Ziyu Guo</strong>*, Zhuhao Wang*, Renrui Zhang, Qizhi Chen, Junli Liu, Delin Qu, Zhigang Wang, Dong Wang, Xuelong Li, Bin Zhao.<br>[<a href="https://arxiv.org/abs/2502.09620">PDF</a>] [<a href="https://github.com/Ivan-Tang-3D/ENEL">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-11', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-11" style="display: none;">
     <img src="images/papers/enel.png" alt="Encoder-free">
@@ -174,7 +174,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="conference-tag">ICCV 2023</span> <a href="https://arxiv.org/pdf/2305.03048.pdf">ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance</a>.<br>
+    <span class="conference-tag">ICCV 2023</span> <a href="https://arxiv.org/pdf/2303.16894.pdf">ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance</a>.<br>
     <strong>Ziyu Guo</strong>*, Yiwen Tang*, Renrui Zhang*, Dong Wang, Zhigang Wang, Bin Zhao.<br>[<a href="https://arxiv.org/pdf/2303.16894.pdf">PDF</a>] [<a href="https://github.com/Ivan-Tang-3D/ViewRefer3D">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-17', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-17" style="display: none;">
