@@ -1,6 +1,5 @@
 # 📖 Educations
 - *Aug 2023 - Now*, PhD Candidate, Computer Science and Engineering, The Chinese University of Hong Kong.
-- *Sep 2021 - Jul 2023*, Master of Science, Computer Science, Peking University (Incomplete).
 - *Sep 2017 - Jul 2021*, Bachelor of Science, Computer Science and Technology, Peking University.
 
 <!-- # 💻 Internships
@@ -16,7 +15,7 @@
 # 📄 Academic Service
 
 ## Conference Reviewers
-NeurIPS 2023, ACM MM 2023, ICCV 2023, ICLR 2024, CVPR 2024, ICASSP 2024, ACL 2024, ECCV 2024, NeurIPS 2024, EMNLP 2024, ACL 2024, ICASSP 2025, ICLR 2025, CVPR 2025, NeurIPS 2025, WACV 2026, ICLR 2026
+NeurIPS 2023, ACM MM 2023, ICCV 2023, ICLR 2024, CVPR 2024, ICASSP 2024, ACL 2024, ECCV 2024, NeurIPS 2024, EMNLP 2024, ACL 2024, ICASSP 2025, ICLR 2025, CVPR 2025, NeurIPS 2025, WACV 2026, ICLR 2026, CVPR 2026
 
 ## Journal Reviewers
 TPAMI, IJCV, TCSVT, Neurocomputing, RA-L, Access
