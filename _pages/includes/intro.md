@@ -6,7 +6,7 @@ My research interests mainly include **<i>Multi-modal Learning, Large Language/V
 
 <div style="margin-top: 1.5em;"></div>
 
-I'm now joining [Meta](https://www.meta.com/) as a research intern. I previously worked as a research intern at [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
+I previously worked as a research intern at [Meta](https://www.meta.com/), [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
 ✉️  <b style="color:#1F3BB3">I'll be on the job market in 2027. Happy to connect about opportunities!</b>
 
