@@ -8,7 +8,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv 2025</span> <a href="https://arxiv.org/abs/2511.16671">Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation</a>.<br>
+    <span class="preprint-tag">CVPR 2026</span> <a href="https://arxiv.org/abs/2511.16671">Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang†*, Hongyu Li*, Manyuan Zhang†, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/abs/2511.16671">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Thinking-while-Generating">Code</a>] [<a href="https://think-while-gen.github.io/">WebPage</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-twig', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-twig" style="display: none;">
@@ -18,7 +18,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="report-tag">Tech Report</span> <a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study on the MME-CoF Benchmark</a>.<br>
+    <span class="report-tag">CVPR 2026 Findings</span> <a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study on the MME-CoF Benchmark</a>.<br>
     <strong>Ziyu Guo</strong>*, Xinyan Chen*, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/abs/2510.26802">PDF</a>] [<a href="https://github.com/ZiyuGuo99/MME-CoF">Code</a>] [<a href="https://video-cof.github.io/">WebPage</a>] [<a href="https://huggingface.co/datasets/ZiyuG/MME-CoF">Benchmark</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-1', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-1" style="display: none;">
