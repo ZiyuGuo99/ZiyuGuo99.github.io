@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.02*: 🎉 Four papers are accepted by CVPR 2026 (two Main, two Findings).
 - *2026.01*: 🎉 Three papers are accepted by ICLR 2026.
 - *2025.11*: 🎉 One paper is accepted by MIR.
 - *2025.11*: 🔥 Released [Thinking-While-Generating](https://think-while-gen.github.io/), interleaving textual reasoning throughout visual generation!
