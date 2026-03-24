@@ -1,10 +1,11 @@
 # 🔥 News
 
+- *2026.03*: 🔥 Release [MME-CoF-Pro](https://arxiv.org/abs/2603.20194), assessing reasoning coherence of video models.
 - *2026.02*: 🎉 Four papers are accepted by CVPR 2026 (two Main, two Findings).
 - *2026.01*: 🎉 Three papers are accepted by ICLR 2026.
 - *2025.11*: 🎉 One paper is accepted by MIR.
-- *2025.11*: 🔥 Released [Thinking-While-Generating](https://think-while-gen.github.io/), interleaving textual reasoning throughout visual generation!
-- *2025.11*: 🔥 Released [MME-CoF](https://video-cof.github.io/), investigating the reasoning potential of video models!
+- *2025.11*: 🔥 Release [Thinking-While-Generating](https://think-while-gen.github.io/), interleaving textual reasoning throughout visual generation!
+- *2025.11*: 🔥 Release [MME-CoF](https://video-cof.github.io/), investigating the reasoning potential of video models!
 - *2025.10*: 🎉 Two papers are accepted by NeurIPS 2025 Workshop.
 - *2025.09*: 🎉 Six papers ([T2I-R1](https://arxiv.org/pdf/2505.00703), [Delving into Image RL](https://arxiv.org/pdf/2505.17017), etc.) are accepted by NeurIPS 2025.
 - *2025.06*: 🎉 Two papers are accepted by ICCV 2025.
