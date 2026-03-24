@@ -8,6 +8,13 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
+    <span class="report-tag">arXiv 2026</span> <a href="https://arxiv.org/abs/2603.20194">MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints</a>.<br>
+    Yu Qi*, Xinyi Xu*, <strong>Ziyu Guo</strong>*, Siyuan Ma*, Renrui Zhang*, Xinyan Chen, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong.<br>[<a href="https://arxiv.org/abs/2603.20194">PDF</a>] [<a href="https://github.com/yqi19/MME-CoF-Pro">Code</a>] [<a href="https://video-reasoning-coherence.github.io/">WebPage</a>] [<a href="https://huggingface.co/datasets/yqi19/mme-cof-pro">Benchmark</a>] 
+      </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-text">
     <span class="preprint-tag">CVPR 2026</span> <a href="https://arxiv.org/abs/2511.16671">Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang†*, Hongyu Li*, Manyuan Zhang†, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/abs/2511.16671">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Thinking-while-Generating">Code</a>] [<a href="https://think-while-gen.github.io/">WebPage</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-twig', this)">Show Figure</button>
   </div>
