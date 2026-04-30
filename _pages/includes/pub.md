@@ -229,6 +229,22 @@
   </div>
 </div>
 
+## Embodied AI
+
+<div class="paper-box">
+  <div class="paper-box-text">
+    <span class="conference-tag">ICLR 2026</span> <a href="#">HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model</a>.<br>
+    Jiaming Liu, Hao Chen, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, <strong>Ziyu Guo</strong>, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC Zhou, Pheng-Ann Heng, Shanghang Zhang.<br>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-text">
+    <span class="preprint-tag">arXiv 2026</span> <a href="#">LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model</a>.<br>
+    Zhuoyang Liu, Jiaming Liu, Hao Chen, Jiale Yu, <strong>Ziyu Guo</strong>, Chengkai Hou, Chenyang Gu, Xiangju Mi, Renrui Zhang, Kun Wu, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang.<br>
+  </div>
+</div>
+
 <script>
 function toggleFigure(figId, button) {
   var figure = document.getElementById(figId);
