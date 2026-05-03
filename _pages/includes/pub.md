@@ -240,6 +240,14 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
+    <span class="conference-tag">ICML 2026</span> <a href="https://arxiv.org/abs/2410.15396">BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities</a>.<br>
+    Yu Qi*, Haibo Zhao*, <strong>Ziyu Guo*</strong>, Siyuan Ma, Ziyan Chen, Yaokun Han, Renrui Zhang, Zitiantao Lin, Shiji Xin, Yijian Huang, Kai Cheng, Peiheng Wang, Jiazheng Liu, Jiayi Zhang, Yizhe Zhu, Wenqing Wang, Yiran Qin, Xupeng Zhu, Haojie Huang, Lawson LS Wong.<br>
+  </div>
+</div>
+
+
+<div class="paper-box">
+  <div class="paper-box-text">
     <span class="preprint-tag">arXiv 2026</span> <a href="#">LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model</a>.<br>
     Zhuoyang Liu, Jiaming Liu, Hao Chen, Jiale Yu, <strong>Ziyu Guo</strong>, Chengkai Hou, Chenyang Gu, Xiangju Mi, Renrui Zhang, Kun Wu, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang.<br>
   </div>
