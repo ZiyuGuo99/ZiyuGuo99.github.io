@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.05*: 🎉 Two papers are accepted by ICML 2026.
 - *2026.03*: 🔥 Release [MME-CoF-Pro](https://arxiv.org/abs/2603.20194), assessing reasoning coherence of video models.
 - *2026.02*: 🎉 Four papers are accepted by CVPR 2026 (two Main, two Findings).
 - *2026.01*: 🎉 Three papers are accepted by ICLR 2026.
