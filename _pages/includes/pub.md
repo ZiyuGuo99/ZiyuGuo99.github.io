@@ -15,7 +15,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">CVPR 2026</span> <a href="https://arxiv.org/abs/2511.16671">Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation</a>.<br>
+    <span class="conference-tag">CVPR 2026</span> <a href="https://arxiv.org/abs/2511.16671">Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang†*, Hongyu Li*, Manyuan Zhang†, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/abs/2511.16671">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Thinking-while-Generating">Code</a>] [<a href="https://think-while-gen.github.io/">WebPage</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-twig', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-twig" style="display: none;">
@@ -25,7 +25,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="report-tag">CVPR 2026 Findings</span> <a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study on the MME-CoF Benchmark</a>.<br>
+    <span class="conference-tag">CVPR 2026 Findings</span> <a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study on the MME-CoF Benchmark</a>.<br>
     <strong>Ziyu Guo</strong>*, Xinyan Chen*, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/abs/2510.26802">PDF</a>] [<a href="https://github.com/ZiyuGuo99/MME-CoF">Code</a>] [<a href="https://video-cof.github.io/">WebPage</a>] [<a href="https://huggingface.co/datasets/ZiyuG/MME-CoF">Benchmark</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-1', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-1" style="display: none;">
@@ -35,7 +35,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv 2025</span> <a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a>.<br>
+    <span class="report-tag">Tech Report</span> <a href="https://arxiv.org/pdf/2501.13926">Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang*, Chengzhuo Tong*, Zhizheng Zhao*, Peng Gao, Hongsheng Li#, Pheng-Ann Heng#.<br>[<a href="https://arxiv.org/pdf/2501.13926">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Image-Generation-CoT">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-2', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-2" style="display: none;">
@@ -119,7 +119,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv 2023</span> <a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a>.<br>
+    <span class="report-tag">Tech Report</span> <a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li#, Hongsheng Li, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/pdf/2309.00615">PDF</a>] [<a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-10', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-10" style="display: none;">
@@ -129,7 +129,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="preprint-tag">arXiv 2025</span> <a href="https://arxiv.org/abs/2502.09620">Exploring the Potential of Encoder-free Architectures in 3D LMMs</a>.<br>
+    <span class="conference-tag">ICLR 2026</span> <a href="https://arxiv.org/abs/2502.09620">Exploring the Potential of Encoder-free Architectures in 3D LMMs</a>.<br>
     Yiwen Tang*, <strong>Ziyu Guo</strong>*, Zhuhao Wang*, Renrui Zhang, Qizhi Chen, Junli Liu, Delin Qu, Zhigang Wang, Dong Wang, Xuelong Li, Bin Zhao.<br>[<a href="https://arxiv.org/abs/2502.09620">PDF</a>] [<a href="https://github.com/Ivan-Tang-3D/ENEL">Code</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-11', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-11" style="display: none;">
@@ -238,6 +238,15 @@
   </div>
 </div>
 
+
+<div class="paper-box">
+  <div class="paper-box-text">
+    <span class="conference-tag">ICML 2026 Spotlight</span> <a href="#">LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model</a>.<br>
+    Zhuoyang Liu, Jiaming Liu, Hao Chen, Jiale Yu, <strong>Ziyu Guo</strong>, Chengkai Hou, Chenyang Gu, Xiangju Mi, Renrui Zhang, Kun Wu, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang.<br>
+  </div>
+</div>
+
+
 <div class="paper-box">
   <div class="paper-box-text">
     <span class="conference-tag">ICML 2026</span> <a href="https://arxiv.org/abs/2410.15396">BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities</a>.<br>
@@ -246,12 +255,6 @@
 </div>
 
 
-<div class="paper-box">
-  <div class="paper-box-text">
-    <span class="preprint-tag">arXiv 2026</span> <a href="#">LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model</a>.<br>
-    Zhuoyang Liu, Jiaming Liu, Hao Chen, Jiale Yu, <strong>Ziyu Guo</strong>, Chengkai Hou, Chenyang Gu, Xiangju Mi, Renrui Zhang, Kun Wu, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang.<br>
-  </div>
-</div>
 
 <script>
 function toggleFigure(figId, button) {
