@@ -67,6 +67,14 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
+    <span class="conference-tag">arXiv 2026</span> <a href="https://arxiv.org/pdf/2605.15198">ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both</a>.<br>
+    <strong>Ziyu Guo</strong>, Rain Liu, Xinyan Chen, Pheng-Ann Heng.<br>
+    [<a href="https://arxiv.org/pdf/2605.15198">PDF</a>] [<a href="https://github.com/ZiyuGuo99/ATLAS">Code</a>] [<a href="https://atlas-oneword.github.io/">Webpage</a>]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-text">
     <span class="conference-tag">ACL 2025</span> <a href="https://arxiv.org/pdf/2503.10627">SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems</a>.<br>
     <strong>Ziyu Guo</strong>*, Renrui Zhang*, Hao Chen*, Jialin Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng#.<br>[<a href="https://sciverse-cuhk.github.io/">Webpage</a>] [<a href="https://huggingface.co/datasets/ZiyuG/SciVerse">Benchmark</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-5', this)">Show Figure</button>
   </div>
