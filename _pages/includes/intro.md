@@ -4,6 +4,8 @@ I am a third-year PhD student at [The Chinese University of Hong Kong](https://w
 
 My research interests mainly include **<i>Multi-modal Learning, Large Language/Vision Models, and 3D Vision.</i>**
 
+I am currently a research intern at [Google DeepMind](https://deepmind.google/).
+
 <div style="margin-top: 1.5em;"></div>
 
 I previously worked as a research intern at [Meta](https://www.meta.com/), [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
