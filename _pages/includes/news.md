@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.06*: 🎉 [MME-CoF-Pro](https://arxiv.org/abs/2603.20194) is accepted by ECCV 2026.
 - *2026.05*: 🔥 Release [ATLAS](https://atlas-oneword.github.io/), a new visual reasoning paradigm.
 - *2026.05*: 🎉 Two papers are accepted by ICML 2026 (one Spotlight, one Regular).
 - *2026.03*: 🔥 Release [MME-CoF-Pro](https://arxiv.org/abs/2603.20194), assessing reasoning coherence of video models.
