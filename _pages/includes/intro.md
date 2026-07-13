@@ -4,7 +4,7 @@ I am a third-year PhD student at [The Chinese University of Hong Kong](https://w
 
 My research interests mainly include **<i>Multi-modal Learning, Large Language/Vision Models, and 3D Vision.</i>**
 
-I am currently a research intern at [Google DeepMind](https://deepmind.google/).
+I am currently a student researcher at [Google DeepMind](https://deepmind.google/).
 
 <div style="margin-top: 1.5em;"></div>
 
