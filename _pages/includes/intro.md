@@ -1,14 +1,14 @@
 <div style="margin-top: 1.5em;"></div>
 
-I am a third-year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk) supervised by [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng). Before that, I received my bachelor's degree in Computer Science from [Peking University](https://www.pku.edu.cn/) supervised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
+I am a last-year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk) supervised by [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng). Before that, I received my bachelor's degree in Computer Science from [Peking University](https://www.pku.edu.cn/) supervised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
 
-My research interests mainly include **<i>Multi-modal Learning, Large Language/Vision Models, and 3D Vision.</i>**
+My research interests mainly include **<i>Large Language/Vision Models, Generative Models, and 3D Vision.</i>**
 
-I am currently a student researcher at [Google DeepMind](https://deepmind.google/).
+I am currently developing new **<i>Gemini and Omni models</i>** as a research intern at [Google DeepMind](https://deepmind.google/).
 
 <div style="margin-top: 1.5em;"></div>
 
-I previously worked as a research intern at [Meta](https://www.meta.com/), [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
+I previously worked as a research intern at [Meta AI](https://www.meta.com/), [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox AI](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
 ✉️  <b style="color:#1F3BB3">I'll be on the job market in 2027. Happy to connect about opportunities!</b>
 
