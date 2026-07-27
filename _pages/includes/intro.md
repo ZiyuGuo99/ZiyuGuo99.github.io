@@ -8,7 +8,7 @@ I am currently developing new **<i>Gemini and Omni models</i>** as a research in
 
 <div style="margin-top: 1.5em;"></div>
 
-I previously worked as a research intern at [Meta AI](https://www.meta.com/), [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox AI](https://www.roblox.com/), [Tencent](https://www.tencent.com/), and [Shanghai AI Laboratory](https://www.shlab.org.cn/).
+I previously worked as a research intern at [Meta AI](https://www.meta.com/), [Amazon AWS AI Lab](https://www.amazon.science/), [Roblox AI](https://www.roblox.com/), [Tencent](https://www.tencent.com/), [Shanghai AI Laboratory](https://www.shlab.org.cn/), and work closely with [ByteDance Seed](https://seed.bytedance.com/en/).
 
 ✉️  <b style="color:#1F3BB3">I'll be on the job market in 2027. Happy to connect about opportunities!</b>
 
