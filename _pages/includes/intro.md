@@ -4,7 +4,7 @@ I am a last-year PhD student at [The Chinese University of Hong Kong (CUHK)](htt
 
 My research interests mainly include **<i>Large Language/Vision Models, Generative Models, and Robotics.</i>**
 
-I am currently developing new **<i>Gemini and Omni models</i>** as a research intern at [Google DeepMind](https://deepmind.google/).
+I am currently developing new <b style="color:#1F3BB3">Gemini and Omni models</b> as a research intern at [Google DeepMind](https://deepmind.google/).
 
 <div style="margin-top: 1.5em;"></div>
 
