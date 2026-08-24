@@ -1,5 +1,7 @@
 # 🔥 News
 
+- *2026.08*: 🎉 One paper is accepted by EMNLP 2026.
+- *2026.07*: 🔥 Release [VideoCoCo](https://arxiv.org/abs/2607.27380), introducing **Code-as-CoT** for physically-consistent video generation via an agentic dual-engine system.
 - *2026.07*: 🔥 Release [OpenCoF](https://arxiv.org/abs/2607.08763) with **<i>ByteDance Seed</i>**, a new Chain-of-Frame (CoF) reasoning paradigm via video generation.
 - *2026.06*: 🎉 [MME-CoF-Pro](https://arxiv.org/abs/2603.20194) is accepted by ECCV 2026.
 - *2026.05*: 🔥 Release [ATLAS](https://atlas-oneword.github.io/) at **<i>Meta AI</i>**, a new visual reasoning paradigm.
