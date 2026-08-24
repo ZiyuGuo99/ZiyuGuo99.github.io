@@ -8,7 +8,23 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="report-tag">arXiv 2026</span> <a href="https://arxiv.org/abs/2603.20194">MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints</a>.<br>
+    <span class="report-tag">Tech Report</span> <a href="https://arxiv.org/abs/2607.27380">VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System</a>.<br>
+    Haodong Li, Tianfei Ren, Xiaoxiao Ma, Chunmei Qing, Zhen Fang, Sipeng He, <strong>Ziyu Guo</strong>, Haoyu Wu, Juanxi Tian, Yihang Zou, Ruichuan An, Dongzhi Jiang, Boxue Yang, Ji Xie, Xu Huang, Wenhao Yan, Jialv Zou, Zhengrong Yue, Yaxin Luo, Xiaotong Li, Yuzhu Wang, Junyan Ye, Jinjing Zhao, Zehui Chen, Lin Chen, Renye Yan, Feng Zhao, Pheng-Ann Heng.<br>
+    [<a href="https://arxiv.org/pdf/2607.27380">PDF</a>] [<a href="https://github.com/micky-li-hd/VideoCoCo">Code</a>]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-text">
+    <span class="report-tag">Tech Report</span> <a href="https://arxiv.org/abs/2607.08763">OpenCoF: Learning to Reason Through Video Generation</a>.<br>
+    Xinyan Chen*, <strong>Ziyu Guo</strong>*, Renrui Zhang, Dongzhi Jiang, Hongsheng Li.<br>
+    [<a href="https://arxiv.org/pdf/2607.08763">PDF</a>] [<a href="https://github.com/xinyan-cxy/OpenCoF">Code</a>] [<a href="https://opencof.github.io/">WebPage</a>]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-text">
+    <span class="conference-tag">ECCV 2026</span> <a href="https://arxiv.org/abs/2603.20194">MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints</a>.<br>
     Yu Qi*, Xinyi Xu*, <strong>Ziyu Guo</strong>*, Siyuan Ma*, Renrui Zhang*, Xinyan Chen, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong.<br>[<a href="https://arxiv.org/abs/2603.20194">PDF</a>] [<a href="https://github.com/yqi19/MME-CoF-Pro">Code</a>] [<a href="https://video-reasoning-coherence.github.io/">WebPage</a>] [<a href="https://huggingface.co/datasets/yqi19/mme-cof-pro">Benchmark</a>] 
       </div>
 </div>
@@ -25,7 +41,7 @@
 
 <div class="paper-box">
   <div class="paper-box-text">
-    <span class="conference-tag">CVPR 2026 Findings</span> <a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study on the MME-CoF Benchmark</a>.<br>
+    <span class="conference-tag">CVPR 2026</span> <a href="https://arxiv.org/abs/2510.26802">Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study on the MME-CoF Benchmark</a>.<br>
     <strong>Ziyu Guo</strong>*, Xinyan Chen*, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng.<br>[<a href="https://arxiv.org/abs/2510.26802">PDF</a>] [<a href="https://github.com/ZiyuGuo99/MME-CoF">Code</a>] [<a href="https://video-cof.github.io/">WebPage</a>] [<a href="https://huggingface.co/datasets/ZiyuG/MME-CoF">Benchmark</a>] <button class="show-figure-btn" onclick="toggleFigure('fig-1', this)">Show Figure</button>
   </div>
   <div class="paper-box-image-below" id="fig-1" style="display: none;">
