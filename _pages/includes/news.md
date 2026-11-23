@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.11*: 🎉 One paper is accepted by IJCV.
 - *2026.09*: 🎉 Three papers are accepted by NeurIPS 2026.
 - *2026.08*: 🎉 One paper is accepted by EMNLP 2026.
 - *2026.07*: 🔥 Release [VideoCoCo](https://arxiv.org/abs/2607.27380), introducing **Code-as-CoT** for physically-consistent video generation via an agentic dual-engine system.
